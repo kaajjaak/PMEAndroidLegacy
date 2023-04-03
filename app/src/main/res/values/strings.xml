@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginFormTest</string>
+    <string name="Open">LoginFormTest</string>
+    <string name="Close">LoginFormTest</string>
+</resources>
